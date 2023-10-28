@@ -1,3 +1,3 @@
 # TicTacToe_Python
 
-TicTacToe in Python
+Player vs Player TicTacToe game in Python cli
